@@ -1,0 +1,24 @@
+{
+  "name": "html2bem",
+  "version": "0.1.0",
+  "description": "Simplifies writing html with bem classes by adding bem attributes",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "fs-extra": "^0.18.2",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GlobantMobileStudio/html2bem.git"
+  },
+  "author": "Andres Sainz de Aja <andres.sainz@globant.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlobantMobileStudio/html2bem/issues"
+  },
+  "homepage": "https://github.com/GlobantMobileStudio/html2bem"
+}
