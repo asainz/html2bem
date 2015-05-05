@@ -1,6 +1,6 @@
 {
   "name": "html2bem",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simplifies writing html with bem classes by adding bem attributes",
   "main": "index.js",
   "dependencies": {
