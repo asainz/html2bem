@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GlobantMobileStudio/html2bem.git"
+    "url": "git@github.com:asainz/html2bem.git"
   },
-  "author": "Andres Sainz de Aja <andres.sainz@globant.com>",
+  "author": "Andres Sainz de Aja <andressainz@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GlobantMobileStudio/html2bem/issues"
+    "url": "https://github.com/asainz/html2bem/issues"
   },
-  "homepage": "https://github.com/GlobantMobileStudio/html2bem"
+  "homepage": "https://github.com/asainz/html2bem"
 }
